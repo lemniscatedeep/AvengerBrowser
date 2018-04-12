@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Avenger Browser</string>
+    <string name="btn_frwrd">FORWARD</string>
+    <string name="btn_refresh">REFRESH</string>
+    <string name="btn_back">BACK</string>
+    <string name="btn_clr">CLEAR</string>
+    <string name="btn_go">GO</string>
+    <string name="hint">ENTER URL HERE</string>
+
+</resources>
